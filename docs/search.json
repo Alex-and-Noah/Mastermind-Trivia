@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html#about-the-questions",
+    "href": "index.html#about-the-questions",
+    "title": "Mastermind Trivia",
+    "section": "About the questions",
+    "text": "About the questions\nBelow are the types of questions you’ll see:\n\nMultiple-choice\n\nThe easiest question to get yourself situated\n\nOpen\n\nIt gets a little harder when you don’t have options anymore\n\nRanking\n\nCan you put them in the right order?"
+  },
+  {
+    "objectID": "index.html#about-the-questions-contd",
+    "href": "index.html#about-the-questions-contd",
+    "title": "Mastermind Trivia",
+    "section": "About the questions, cont’d",
+    "text": "About the questions, cont’d\n\nSound-bite\n\nI’ll play a sound clip and you’ll have to answer the question related to it\n\nRange\n\nUnlike the other questions so far, whoever is closest will get this point\n\nWho/What am I?\n\nYou’ll get 3 clues, if you can get the person/object on the first clue that’ll be worth 3 points, 2 for the second clue, and 1 for the last clue–pending you get the right answer"
+  },
+  {
+    "objectID": "index.html#about-the-scoring",
+    "href": "index.html#about-the-scoring",
+    "title": "Mastermind Trivia",
+    "section": "About the scoring",
+    "text": "About the scoring\nWe’ll calculate the differentials between the mastermind and the rest of the team–whoever has the highest differential wins.\nHowever, if there is a tie I have some volleyball trivia questions to break it."
+  },
+  {
+    "objectID": "index.html#question-1",
+    "href": "index.html#question-1",
+    "title": "Mastermind Trivia",
+    "section": "Question 1",
+    "text": "Question 1\nMultiple-choice question\n\nOption 1\nOption 2\nOption 3\nOption 4"
+  },
+  {
+    "objectID": "index.html#question-2",
+    "href": "index.html#question-2",
+    "title": "Mastermind Trivia",
+    "section": "Question 2",
+    "text": "Question 2\nOpen Question"
+  },
+  {
+    "objectID": "index.html#question-3",
+    "href": "index.html#question-3",
+    "title": "Mastermind Trivia",
+    "section": "Question 3",
+    "text": "Question 3\nRank/order the options.\n\nOption 1\nOption 2\nOption 3\nOption 4\nOption 5"
+  },
+  {
+    "objectID": "index.html#question-4",
+    "href": "index.html#question-4",
+    "title": "Mastermind Trivia",
+    "section": "Question 4",
+    "text": "Question 4\nSound-bite (we play it out loud separately)"
+  },
+  {
+    "objectID": "index.html#question-5",
+    "href": "index.html#question-5",
+    "title": "Mastermind Trivia",
+    "section": "Question 5",
+    "text": "Question 5\nRange/closest number"
+  },
+  {
+    "objectID": "index.html#question-6",
+    "href": "index.html#question-6",
+    "title": "Mastermind Trivia",
+    "section": "Question 6",
+    "text": "Question 6\nWho/what am I?\n\n\nFact 1\nFact 2\nFact 3"
+  }
+]
