@@ -1,0 +1,214 @@
+---
+title: "Mastermind Trivia"
+format: 
+  revealjs:
+    transition: slide
+    background-transition: fade
+---
+
+```{r setup}
+#| echo: false
+
+# Load libraries ----
+library(tidyverse)
+```
+
+# About this quiz
+
+These questions will start easy and get harder--so watch out! Everyone will play against the mastermind on their given topic.
+
+## About the questions {.smaller}
+
+Below are the types of questions you'll see:
+
+1. Multiple-choice
+    - The easiest question to get yourself situated
+2. Open 
+    - It gets a little harder when you don't have options anymore
+3. Ranking
+    - Can you put them in the right order?
+
+--- 
+
+## About the questions, cont'd {.smaller}
+
+4. Sound-bite
+    - I'll play a sound clip and you'll have to answer the question related to it
+5. Range
+    - Unlike the other questions so far, whoever is closest will get this point
+6. Who/What am I?
+    - You'll get 3 clues, if you can get the person/object on the first clue that'll be worth 3 points, 2 for the second clue, and 1 for the last clue--pending you get the right answer
+
+## About the scoring
+
+We'll calculate the differentials between the mastermind and the rest of the team--whoever has the highest differential wins.
+
+However, if there is a tie I have some volleyball trivia questions to break it.
+
+# Alex: Veep
+
+## Question 1
+
+Multiple-choice question
+
+a. Option 1
+b. Option 2
+c. Option 3
+d. Option 4
+
+---
+
+The correct answer is:
+
+x. Answer
+
+## Question 2
+
+Open Question
+
+---
+
+The correct answer is:
+
+Answer
+
+## Question 3
+
+Rank/order the options.
+
+a. Option 1
+b. Option 2
+c. Option 3
+d. Option 4
+e. Option 5
+
+---
+
+The correct answer is:
+
+v. Option a
+w. Option b
+x. Option c
+y. Option d
+z. Option e
+
+## Question 4
+
+Sound-bite (we play it out loud separately)
+
+---
+
+The correct answer is:
+
+Answer
+
+## Question 5
+
+Range/closest number
+
+---
+
+The correct answer is:
+
+Answer
+
+## Question 6
+
+Who/what am I?
+
+::: {.incremental}
+- Fact 1
+- Fact 2
+- Fact 3
+:::
+
+---
+
+The correct answer is:
+
+Answer
+
+# Michael: Dad/Yacht Rock
+
+## Question 1
+
+Multiple-choice question
+
+a. Option 1
+b. Option 2
+c. Option 3
+d. Option 4
+
+---
+
+The correct answer is:
+
+x. Answer
+
+## Question 2
+
+Open Question
+
+---
+
+The correct answer is:
+
+Answer
+
+## Question 3
+
+Rank/order the options.
+
+a. Option 1
+b. Option 2
+c. Option 3
+d. Option 4
+e. Option 5
+
+---
+
+The correct answer is:
+
+v. Option a
+w. Option b
+x. Option c
+y. Option d
+z. Option e
+
+## Question 4
+
+Sound-bite (we play it out loud separately)
+
+---
+
+The correct answer is:
+
+Answer
+
+## Question 5
+
+Range/closest number
+
+---
+
+The correct answer is:
+
+Answer
+
+## Question 6
+
+Who/what am I?
+
+::: {.incremental}
+- Fact 1
+- Fact 2
+- Fact 3
+:::
+
+---
+
+The correct answer is:
+
+Answer
+
+# Thanks for playing!

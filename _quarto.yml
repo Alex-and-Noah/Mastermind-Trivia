@@ -24,6 +24,8 @@ website:
     left:
       - text: Secret
         file: index.qmd
+      - text: Secret Noah
+        file: index_noah.qmd
     
 page-footer:  
   - icon: github
