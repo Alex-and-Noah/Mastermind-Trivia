@@ -43,9 +43,53 @@ Below are the types of questions you'll see:
 
 We'll calculate the differentials between the mastermind and the rest of the team--whoever has the highest differential wins.
 
-However, if there is a tie I have some volleyball trivia questions to break it.
+# Bhagy: Brooklyn 99
 
-# Name: Category
+## Question 1
+
+Multiple-choice question
+
+a. Option 1
+b. Option 2
+c. Option 3
+d. Option 4
+
+## Question 2
+
+Open Question
+
+## Question 3
+
+Rank/order the options.
+
+Earliest appearence of minor recurring characters
+
+a. Option 1
+b. Option 2
+c. Option 3
+d. Option 4
+e. Option 5
+
+## Question 4
+
+Sound-bite (we play it out loud separately)
+
+## Question 5
+
+Range/closest number
+
+
+## Question 6
+
+Who/what am I?
+
+::: {.incremental}
+- Fact 1
+- Fact 2
+- Fact 3
+:::
+
+# Noah: Metal Music
 
 ## Question 1
 
