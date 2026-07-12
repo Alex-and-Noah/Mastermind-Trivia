@@ -23,12 +23,12 @@ Below are the types of questions you'll see:
 
 1. Multiple-choice
     - The easiest question to get yourself situated
-2. Open 
+2. Open
     - It gets a little harder when you don't have options anymore
 3. Ranking
     - Can you put them in the right order?
 
---- 
+---
 
 ## About the questions, cont'd {.smaller}
 
@@ -46,6 +46,91 @@ We'll calculate the differentials between the mastermind and the rest of the tea
 However, if there is a tie I have some volleyball trivia questions to break it.
 
 # Alex: Veep
+
+## Question 1
+
+What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
+
+a. American flag pin
+b. Red dress
+c. Pearl neckalace
+d. All of the above
+
+---
+
+The correct answer is:
+
+b. Red dress
+
+## Question 2
+
+Open Question
+
+---
+
+The correct answer is:
+
+Answer
+
+## Question 3
+
+List these guests in chronological order of appearance.
+
+- Patton Oswalt as Teddy Sykes
+- Rhea Seehorn as Michelle York
+- Hugh Laurie as Tom James
+- Christopher Meloni as Ray Whelans
+- Clea DuVall as Majorie Palmiotti
+
+---
+
+The correct answer is:
+
+- Christopher Meloni (S3E6)
+- Patton Oswalt (S4E1)
+- Hugh Laurie (S4E5)
+- Clea DuVall (S5E1)
+- Rhea Seehorn (S7E2)
+
+
+
+## Question 4
+
+Sound-bite (we play it out loud separately)
+
+---
+
+The correct answer is:
+
+Answer
+
+## Question 5
+
+Throughout the entire series, how many days did Selina Meyer serve as president?
+
+---
+
+The correct answer is:
+
+1825
+
+## Question 6
+
+Who/what am I?
+
+::: {.incremental}
+- Fact 1
+- Fact 2
+- Fact 3
+:::
+
+---
+
+The correct answer is:
+
+Answer
+
+# Michael: Dad/Yacht Rock
 
 ## Question 1
 
@@ -128,7 +213,7 @@ The correct answer is:
 
 Answer
 
-# Michael: Dad/Yacht Rock
+# Tyler: One Piece
 
 ## Question 1
 
