@@ -93,6 +93,88 @@ Who/what am I?
 
 ## Question 1
 
+Which of the following well-known 1960s bands is not considered a pioneer of heavy metal?
+
+a. Led Zeppelin
+b. The Rolling Stones
+c. Deep Purple
+d. Black Sabbath
+
+## Question 1
+
+Which of the following well-known 1960s bands is not considered a pioneer of heavy metal?
+
+a. Led Zeppelin
+**b. The Rolling Stones**
+c. Deep Purple
+d. Black Sabbath
+
+## Question 2
+
+This northern European city was considered an early metal music hub
+
+## Question 2
+
+Gothenburg
+
+## Question 3
+
+Order the "mainstream" appearance of each metal subgenre from earliest to latest:
+
+a. Doom Metal
+b. Alternative Metal
+c. Thrash Metal
+d. Death Metal
+e. Grunge Metal
+
+## Question 3
+
+Order the "mainstream" appearance of each submetal genre from earliest to latest:
+
+a. Thrash Metal (1980s)
+b. Death Metal (mid 1980s)
+c. Doom Metal (late 1980s - early 90s)
+d. Grunge Metal (mid 1990s)
+e. Alternative Metal (early 2000s)
+
+## Question 4
+
+Which metal-inspired artist is featured in this clip?
+
+## Question 4
+
+Evanescence
+
+## Question 5
+
+BABYMETAL are a Nu Metal Group from Japan. As of July 13th. How many plays does their top song have on Spotify?
+
+## Question 5
+
+BABYMETAL are a Nu Metal Group from Japan. As of July 13th. How many plays does their top song have on Spotify?
+
+143,910,465
+
+## Question 6
+
+What am I?
+
+::: {.incremental}
+- This style evolved out of progressive metal.
+- This style heavily uses syncopated riffs, distortions and polyrhythms.
+- This style characteristically uses 7, 8 or even 9 stringed-guitars.
+:::
+
+## Question 6
+
+What am I? 
+
+**Djent**
+
+# Hayley: Grade 9 Geography
+
+## Question 1
+
 Multiple-choice question
 
 a. Option 1
@@ -107,6 +189,8 @@ Open Question
 ## Question 3
 
 Rank/order the options.
+
+Earliest appearence of minor recurring characters
 
 a. Option 1
 b. Option 2
@@ -132,5 +216,6 @@ Who/what am I?
 - Fact 2
 - Fact 3
 :::
+
 
 # Thanks for playing!
