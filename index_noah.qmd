@@ -6,13 +6,6 @@ format:
     background-transition: fade
 ---
 
-```{r setup}
-#| echo: false
-
-# Load libraries ----
-library(tidyverse)
-```
-
 # About this quiz
 
 These questions will start easy and get harder--so watch out! Everyone will play against the mastermind on their given topic.
@@ -92,8 +85,6 @@ The correct answer is:
 - Clea DuVall (S5E1)
 - Rhea Seehorn (S7E2)
 
-
-
 ## Question 4
 
 Sound-bite (we play it out loud separately)
@@ -134,48 +125,48 @@ Answer
 
 ## Question 1
 
-Multiple-choice question
+Who coined the term 'Yacht Rock'?
 
-a. Option 1
-b. Option 2
-c. Option 3
-d. Option 4
+a. John Oates
+b. J.D. Ryznar
+c. Jimmy Buffet
+d. Brian Wilson
 
 ---
 
 The correct answer is:
 
-x. Answer
+b. J.D. Ryznar
 
 ## Question 2
 
-Open Question
+Who wrote the anthemic, archetypical 1979 Yacht Rock song 'Sailing'?
 
 ---
 
 The correct answer is:
 
-Answer
+Christopher Cross
 
 ## Question 3
 
-Rank/order the options.
+List these Beach Boys albums in chronological order of release
 
-a. Option 1
-b. Option 2
-c. Option 3
-d. Option 4
-e. Option 5
+a. Smiley Smile
+b. Pet Sounds
+c. Still Cruisin'
+d. All Summer Long
+e. Surfin' U.S.A.
 
 ---
 
 The correct answer is:
 
-v. Option a
-w. Option b
-x. Option c
-y. Option d
-z. Option e
+e. Surfin' U.S.A. (1963)
+d. All Summer Long (1964)
+b. Pet Sounds (1966)
+a. Smiley Smile (1967)
+c. Still Cruisin' (1989)
 
 ## Question 4
 
@@ -189,76 +180,77 @@ Answer
 
 ## Question 5
 
-Range/closest number
+How many members were in the most recent touring lineup of Steely Dan?
 
 ---
 
 The correct answer is:
 
-Answer
+13
 
 ## Question 6
 
-Who/what am I?
+What band am I?
 
 ::: {.incremental}
-- Fact 1
-- Fact 2
-- Fact 3
+- I composed (most of the) soundtrack for the 1984 movie Dune
+- I was formed by David Paich and Jeff Porcaro in 1977
+- As I've said many times, "It's going to take a lot to drag me away from you"
 :::
 
 ---
 
 The correct answer is:
 
-Answer
+Toto
 
 # Tyler: One Piece
 
 ## Question 1
 
-Multiple-choice question
+The first video game based on the One Piece franchise is strategy game Pirate King, released in Japan in 2000. On which console was this game released?
 
-a. Option 1
-b. Option 2
-c. Option 3
-d. Option 4
+a. WonderSwan
+b. Game Boy Color
+c. PlayStation 1
+d. GameCube
 
 ---
 
 The correct answer is:
 
-x. Answer
+a. WonderSwan
 
 ## Question 2
 
-Open Question
+What is the name of the fruit that Luffy eats, granting his body the properties of rubber?
 
 ---
 
 The correct answer is:
 
-Answer
+Hito Hito no Mi, Model: Nika (will accept Human-Human Fruit, Gomu Gomu no Mi or Gum-Gum fruit)
 
 ## Question 3
 
-Rank/order the options.
+Sort the following Straw Hat members based on their first bounties (high to low)
 
-a. Option 1
-b. Option 2
-c. Option 3
-d. Option 4
-e. Option 5
+a. Nami
+b. Sanji
+c. Chopper
+d. Roronoa Zoro
+e. Usopp
 
 ---
 
 The correct answer is:
 
-v. Option a
-w. Option b
-x. Option c
-y. Option d
-z. Option e
+b. Sanji (77,000,000)
+d. Roronoa Zoro (60,000,000)
+e. Usopp (30,000,000)
+a. Nami (16,000,000)
+c. Chopper (50)
+
 
 ## Question 4
 
@@ -272,13 +264,13 @@ Answer
 
 ## Question 5
 
-Range/closest number
+The manga series holds the Guinness World Record for the 'Most copies published for the same comic book series by a single author' (July 2022). How many copies have been published?
 
 ---
 
 The correct answer is:
 
-Answer
+416,566,000
 
 ## Question 6
 
@@ -297,3 +289,16 @@ The correct answer is:
 Answer
 
 # Thanks for playing!
+
+<!-- Still need:
+
+Veep:
+- 4. Sound bite
+- 6. Who/what am I?
+
+Yacht Rock:
+- 4. Sound bite
+
+One Piece:
+- 4. Sound bite
+- 6. Who/what am I? -->
