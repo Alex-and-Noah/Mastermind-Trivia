@@ -175,47 +175,85 @@ What am I?
 
 ## Question 1
 
-Multiple-choice question
+Which province produces the most hydroelectric power?
 
-a. Option 1
-b. Option 2
-c. Option 3
-d. Option 4
+a. Ontario
+b. Quebec
+c. British Columbia
+d. Alberta
+
+## Question 1
+
+Which province produces the most hydroelectric power?
+
+a. Ontario
+**b. Quebec**
+c. British Columbia
+d. Alberta
 
 ## Question 2
 
-Open Question
+Which natural resource industry employs the most people in Canada?
+
+## Question 2
+
+Which natural resource industry employs the most people in Canada?
+
+Minerals and metals
 
 ## Question 3
 
-Rank/order the options.
+Order the "mainstream" appearance of each metal subgenre from earliest to latest:
 
-Earliest appearence of minor recurring characters
+a. Canada's population surpasses 30 million
+b. Millenials outnumbered Baby Boomers
+c. Canada's total fertility rate drops below 2 babies per female
+d. The first Gen Alpha is born
+e. Nunavut becomes a territory
 
-a. Option 1
-b. Option 2
-c. Option 3
-d. Option 4
-e. Option 5
+## Question 3
+
+Order these Canadian demographic events:
+
+a. Canada's total fertility rate drops below 2 babies per female (1972)
+b. Nunavut becomes a territory (1999)
+c. Canada's population surpasses 30 million (2001)
+d. The first Gen Alpha is born (2010)
+e. Millenials outnumbered Baby Boomers (2023)
 
 ## Question 4
 
-Sound-bite (we play it out loud separately)
+What location is "discovered" in this [Heritage Minute](https://www.historicacanada.ca/productions/minutes/jean-nicollet)?
+
+## Question 4
+
+Lake Michigan
 
 ## Question 5
 
-Range/closest number
+How many square km is the Canadian shield?
 
+## Question 5
+
+How many square km is the Canadian shield?
+
+8,000,000 km^2
 
 ## Question 6
 
-Who/what am I?
+What am I?
 
 ::: {.incremental}
-- Fact 1
-- Fact 2
-- Fact 3
+- I am between 2.5 and 4.2 billion years old.
+- My last major earthquake was in 1700.
+- I am a microplate in the ring of fire.
 :::
+
+## Question 6
+
+What am I? 
+
+**Juan de Fuca Plate**
 
 
 # Thanks for playing!
