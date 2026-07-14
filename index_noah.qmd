@@ -40,7 +40,7 @@ We'll calculate the differentials between the mastermind and the rest of the tea
 
 However, if there is a tie I have some volleyball trivia questions to break it.
 
-# Alex: Veep {.content-background background-image="./static/veep_background.jpg" style="padding-left:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+# Alex: Veep {.content-background background-image="./static/veep_background.jpg" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
 
@@ -149,7 +149,7 @@ The correct answer is:
 
 The Leviathan (Gary's bag)
 
-# Michael: Yacht Rock  {.content-background background-image="./static/yacht_rock_background.jpg" style="padding-left:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+# Michael: Yacht Rock  {.content-background background-image="./static/yacht_rock_background.jpg" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
 
@@ -262,7 +262,7 @@ The correct answer is:
 
 Toto
 
-# Tyler: One Piece  {.content-background background-image="./static/one_piece_background.jpg" style="padding-left:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+# Tyler: One Piece  {.content-background background-image="./static/one_piece_background.jpg" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
 
