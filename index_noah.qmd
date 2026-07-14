@@ -4,6 +4,8 @@ format:
   revealjs:
     transition: slide
     background-transition: fade
+    theme: solarized
+css: styles.css
 ---
 
 # About this quiz
@@ -38,9 +40,13 @@ We'll calculate the differentials between the mastermind and the rest of the tea
 
 However, if there is a tie I have some volleyball trivia questions to break it.
 
-# Alex: Veep
+# Alex: Veep {.content-background background-image="./static/veep_background.jpg" style="padding-left:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
+
+::: footer
+Alex - Veep
+:::
 
 Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
 
@@ -57,6 +63,10 @@ Phoebe Waller-Bridge for Fleabag
 
 ## Question 2
 
+::: footer
+Alex - Veep
+:::
+
 What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
 
 ---
@@ -66,6 +76,10 @@ The correct answer is:
 A red dress
 
 ## Question 3
+
+::: footer
+Alex - Veep
+:::
 
 List these guests in chronological order of appearance.
 
@@ -87,6 +101,10 @@ The correct answer is:
 
 ## Question 4
 
+::: footer
+Alex - Veep
+:::
+
 What is Selina Meyer referring to in this clip?
 
 <!-- https://youtu.be/YtRVGdT6c3E?t=116 -->
@@ -99,6 +117,10 @@ Catherine's hair
 
 ## Question 5
 
+::: footer
+Alex - Veep
+:::
+
 Throughout the entire series, how many days did Selina Meyer serve as president?
 
 ---
@@ -108,6 +130,10 @@ The correct answer is:
 1825
 
 ## Question 6
+
+::: footer
+Alex - Veep
+:::
 
 Who/what am I?
 
@@ -121,11 +147,15 @@ Who/what am I?
 
 The correct answer is:
 
-Answer
+The Leviathan (Gary's bag)
 
-# Michael: Dad/Yacht Rock
+# Michael: Yacht Rock  {.content-background background-image="./static/yacht_rock_background.jpg" style="padding-left:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
+
+::: footer
+Michael - Yacht Rock
+:::
 
 Who coined the term 'Yacht Rock'?
 
@@ -142,6 +172,10 @@ b. J.D. Ryznar
 
 ## Question 2
 
+::: footer
+Michael - Yacht Rock
+:::
+
 Who wrote the anthemic, archetypical 1979 Yacht Rock song 'Sailing'?
 
 ---
@@ -151,6 +185,10 @@ The correct answer is:
 Christopher Cross
 
 ## Question 3
+
+::: footer
+Michael - Yacht Rock
+:::
 
 List these Beach Boys albums in chronological order of release
 
@@ -172,6 +210,10 @@ c. Still Cruisin' (1989)
 
 ## Question 4
 
+::: footer
+Michael - Yacht Rock
+:::
+
 Name each of these songs and their artists.
 
 <!-- https://open.spotify.com/playlist/4t6ZbMpxbuFaWGm8994Rcl?si=404500b57c074e24&pt=353e30145a5f482844f021f4fc751e3d -->
@@ -188,6 +230,10 @@ The correct answer is:
 
 ## Question 5
 
+::: footer
+Michael - Yacht Rock
+:::
+
 How many members were in the most recent touring lineup of Steely Dan?
 
 ---
@@ -197,6 +243,10 @@ The correct answer is:
 13
 
 ## Question 6
+
+::: footer
+Michael - Yacht Rock
+:::
 
 What band am I?
 
@@ -212,9 +262,13 @@ The correct answer is:
 
 Toto
 
-# Tyler: One Piece
+# Tyler: One Piece  {.content-background background-image="./static/one_piece_background.jpg" style="padding-left:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
+
+::: footer
+Tyler - One Piece
+:::
 
 The first video game based on the One Piece franchise is strategy game Pirate King, released in Japan in 2000. On which console was this game released?
 
@@ -231,6 +285,10 @@ a. WonderSwan
 
 ## Question 2
 
+::: footer
+Tyler - One Piece
+:::
+
 What is the name of the fruit that Luffy eats, granting his body the properties of rubber?
 
 ---
@@ -240,6 +298,10 @@ The correct answer is:
 Hito Hito no Mi, Model: Nika (will accept Human-Human Fruit, Gomu Gomu no Mi or Gum-Gum fruit)
 
 ## Question 3
+
+::: footer
+Tyler - One Piece
+:::
 
 Sort the following Straw Hat members based on their first bounties (high to low)
 
@@ -262,6 +324,10 @@ c. Chopper (50)
 
 ## Question 4
 
+::: footer
+Tyler - One Piece
+:::
+
 In this scene, what item is Luffy making from scratch to aid him in his fight?
 
 <!-- https://youtu.be/REXhLXvN-bE?t=15 -->
@@ -274,6 +340,10 @@ Baseball bat
 
 ## Question 5
 
+::: footer
+Tyler - One Piece
+:::
+
 The manga series holds the Guinness World Record for the 'Most copies published for the same comic book series by a single author' (July 2022). How many copies have been published?
 
 ---
@@ -283,6 +353,10 @@ The correct answer is:
 416,566,000
 
 ## Question 6
+
+::: footer
+Tyler - One Piece
+:::
 
 Who/what am I?
 
