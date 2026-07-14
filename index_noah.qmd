@@ -87,13 +87,15 @@ The correct answer is:
 
 ## Question 4
 
-Sound-bite (we play it out loud separately)
+What is Selina Meyer referring to in this clip?
+
+<!-- https://youtu.be/YtRVGdT6c3E?t=116 -->
 
 ---
 
 The correct answer is:
 
-Answer
+Catherine's hair
 
 ## Question 5
 
@@ -170,13 +172,19 @@ c. Still Cruisin' (1989)
 
 ## Question 4
 
-Sound-bite (we play it out loud separately)
+Name each of these songs and their artists.
+
+<!-- https://open.spotify.com/playlist/4t6ZbMpxbuFaWGm8994Rcl?si=404500b57c074e24&pt=353e30145a5f482844f021f4fc751e3d -->
 
 ---
 
 The correct answer is:
 
-Answer
+1. Footloose by Kenny Loggins
+2. Hold the Line by Toto
+3. The Chain by Fleetwood Max
+4. Cold as Ice by Foreigner
+5. The Joker by Steve Miller Band
 
 ## Question 5
 
@@ -254,13 +262,15 @@ c. Chopper (50)
 
 ## Question 4
 
-Sound-bite (we play it out loud separately)
+In this scene, what item is Luffy making from scratch to aid him in his fight?
+
+<!-- https://youtu.be/REXhLXvN-bE?t=15 -->
 
 ---
 
 The correct answer is:
 
-Answer
+Baseball bat
 
 ## Question 5
 
@@ -293,12 +303,7 @@ Answer
 <!-- Still need:
 
 Veep:
-- 4. Sound bite
 - 6. Who/what am I?
 
-Yacht Rock:
-- 4. Sound bite
-
 One Piece:
-- 4. Sound bite
 - 6. Who/what am I? -->
