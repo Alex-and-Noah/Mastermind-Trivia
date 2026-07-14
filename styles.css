@@ -3,3 +3,28 @@
   border-radius: 12px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
+
+.h1 {
+  /* background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto 100%; */
+  width:fit-content;
+  margin-top:25%;
+  padding-left:40px;
+  padding-right:40px;
+  padding-top:5px;
+  padding-bottom:5px;
+  border:2px solid #002b36;
+}
+
+.title-slide-alex {
+  background-image : url("./static/veep_background.jpg");
+}
+
+.title-slide-michael {
+  background-image : url("./static/yacht_rock_background.webp");
+}
+
+.title-slide-tyler {
+  background-image : url("./static/one_piece_background.jpg");
+}

@@ -1,6 +1,6 @@
 ---
 title: "Mastermind Trivia"
-format: 
+format:
   revealjs:
     transition: slide
     background-transition: fade
@@ -50,16 +50,12 @@ Alex - Veep
 
 Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
 
+:::{.incremental}
 a. Catherine O'Hara for Schitt's Creek as Moira Rose
 b. Phoebe Waller-Bridge for Fleabag
 c. Natasha Lyonne for Russian Doll as Nadia
 d. Christina Applegate for Dead to Me as Jen
-
----
-
-The correct answer is:
-
-Phoebe Waller-Bridge for Fleabag
+:::
 
 ## Question 2
 
@@ -69,12 +65,6 @@ Alex - Veep
 
 What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
 
----
-
-The correct answer is:
-
-A red dress
-
 ## Question 3
 
 ::: footer
@@ -83,21 +73,13 @@ Alex - Veep
 
 List these guests in chronological order of appearance.
 
-- Patton Oswalt as Teddy Sykes
-- Rhea Seehorn as Michelle York
-- Hugh Laurie as Tom James
-- Christopher Meloni as Ray Whelans
-- Clea DuVall as Majorie Palmiotti
-
----
-
-The correct answer is:
-
-- Christopher Meloni (S3E6)
-- Patton Oswalt (S4E1)
-- Hugh Laurie (S4E5)
-- Clea DuVall (S5E1)
-- Rhea Seehorn (S7E2)
+:::{.incremental}
+a. Patton Oswalt as Teddy Sykes
+b. Rhea Seehorn as Michelle York
+c. Hugh Laurie as Tom James
+d. Christopher Meloni as Ray Whelans
+e. Clea DuVall as Majorie Palmiotti
+:::
 
 ## Question 4
 
@@ -109,12 +91,6 @@ What is Selina Meyer referring to in this clip?
 
 <!-- https://youtu.be/YtRVGdT6c3E?t=116 -->
 
----
-
-The correct answer is:
-
-Catherine's hair
-
 ## Question 5
 
 ::: footer
@@ -122,12 +98,6 @@ Alex - Veep
 :::
 
 Throughout the entire series, how many days did Selina Meyer serve as president?
-
----
-
-The correct answer is:
-
-1825
 
 ## Question 6
 
@@ -143,13 +113,93 @@ Who/what am I?
 - Fact 3
 :::
 
----
+## Answer 1
 
-The correct answer is:
+::: footer
+Alex - Veep
+:::
 
-The Leviathan (Gary's bag)
+Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
 
-# Michael: Yacht Rock  {.content-background background-image="./static/yacht_rock_background.jpg" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+:::{.incremental}
+- **b. Phoebe Waller-Bridge for Fleabag**
+:::
+
+## Answer 2
+
+::: footer
+Alex - Veep
+:::
+
+What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
+
+:::{.incremental}
+- **A red dress**
+:::
+
+## Answer 3
+
+::: footer
+Alex - Veep
+:::
+
+List these guests in chronological order of appearance.
+
+:::{.incremental}
+d. **Christopher Meloni (S3E6)**
+a. **Patton Oswalt (S4E1)**
+c. **Hugh Laurie (S4E5)**
+e. **Clea DuVall (S5E1)**
+b. **Rhea Seehorn (S7E2)**
+:::
+
+## Answer 4
+
+::: footer
+Alex - Veep
+:::
+
+What is Selina Meyer referring to in this clip?
+
+<!-- https://youtu.be/YtRVGdT6c3E?t=116 -->
+
+:::{.incremental}
+- **Catherine's hair**
+:::
+
+## Answer 5
+
+::: footer
+Alex - Veep
+:::
+
+Throughout the entire series, how many days did Selina Meyer serve as president?
+
+:::{.incremental}
+- **1825**
+:::
+
+## Answer 6
+
+::: footer
+Alex - Veep
+:::
+
+Who/what am I?
+
+:::{.nonincremental}
+- Fact 1
+- Fact 2
+- Fact 3
+:::
+
+<br>
+
+:::{.incremental}
+- **The Leviathan (Gary's bag)**
+:::
+
+# Michael: Yacht Rock  {.content-background background-image="./static/yacht_rock_background.webp" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
 
@@ -159,16 +209,12 @@ Michael - Yacht Rock
 
 Who coined the term 'Yacht Rock'?
 
+:::{.incremental}
 a. John Oates
 b. J.D. Ryznar
 c. Jimmy Buffet
 d. Brian Wilson
-
----
-
-The correct answer is:
-
-b. J.D. Ryznar
+:::
 
 ## Question 2
 
@@ -178,12 +224,6 @@ Michael - Yacht Rock
 
 Who wrote the anthemic, archetypical 1979 Yacht Rock song 'Sailing'?
 
----
-
-The correct answer is:
-
-Christopher Cross
-
 ## Question 3
 
 ::: footer
@@ -192,21 +232,13 @@ Michael - Yacht Rock
 
 List these Beach Boys albums in chronological order of release
 
+:::{.incremental}
 a. Smiley Smile
 b. Pet Sounds
 c. Still Cruisin'
 d. All Summer Long
 e. Surfin' U.S.A.
-
----
-
-The correct answer is:
-
-e. Surfin' U.S.A. (1963)
-d. All Summer Long (1964)
-b. Pet Sounds (1966)
-a. Smiley Smile (1967)
-c. Still Cruisin' (1989)
+:::
 
 ## Question 4
 
@@ -218,16 +250,6 @@ Name each of these songs and their artists.
 
 <!-- https://open.spotify.com/playlist/4t6ZbMpxbuFaWGm8994Rcl?si=404500b57c074e24&pt=353e30145a5f482844f021f4fc751e3d -->
 
----
-
-The correct answer is:
-
-1. Footloose by Kenny Loggins
-2. Hold the Line by Toto
-3. The Chain by Fleetwood Max
-4. Cold as Ice by Foreigner
-5. The Joker by Steve Miller Band
-
 ## Question 5
 
 ::: footer
@@ -235,12 +257,6 @@ Michael - Yacht Rock
 :::
 
 How many members were in the most recent touring lineup of Steely Dan?
-
----
-
-The correct answer is:
-
-13
 
 ## Question 6
 
@@ -256,11 +272,95 @@ What band am I?
 - As I've said many times, "It's going to take a lot to drag me away from you"
 :::
 
----
+## Answer 1
 
-The correct answer is:
+::: footer
+Michael - Yacht Rock
+:::
 
-Toto
+Who coined the term 'Yacht Rock'?
+
+:::{.incremental}
+- **b. J.D. Ryznar**
+:::
+
+## Answer 2
+
+::: footer
+Michael - Yacht Rock
+:::
+
+Who wrote the anthemic, archetypical 1979 Yacht Rock song 'Sailing'?
+
+:::{.incremental}
+- **Christopher Cross**
+:::
+
+## Answer 3
+
+::: footer
+Michael - Yacht Rock
+:::
+
+List these Beach Boys albums in chronological order of release
+
+:::{.incremental}
+e. **Surfin' U.S.A. (1963)**
+d. **All Summer Long (1964)**
+b. **Pet Sounds (1966)**
+a. **Smiley Smile (1967)**
+c. **Still Cruisin' (1989)**
+:::
+
+## Answer 4
+
+::: footer
+Michael - Yacht Rock
+:::
+
+Name each of these songs and their artists.
+
+<!-- https://open.spotify.com/playlist/4t6ZbMpxbuFaWGm8994Rcl?si=404500b57c074e24&pt=353e30145a5f482844f021f4fc751e3d -->
+
+:::{.incremental}
+1. **Footloose by Kenny Loggins**
+2. **Hold the Line by Toto**
+3. **The Chain by Fleetwood Max**
+4. **Cold as Ice by Foreigner**
+5. **The Joker by Steve Miller Band**
+:::
+
+## Answer 5
+
+::: footer
+Michael - Yacht Rock
+:::
+
+How many members were in the most recent touring lineup of Steely Dan?
+
+:::{.incremental}
+- **13**
+:::
+
+## Answer 6
+
+::: footer
+Michael - Yacht Rock
+:::
+
+What band am I?
+
+:::{.nonincremental}
+- I composed (most of the) soundtrack for the 1984 movie Dune
+- I was formed by David Paich and Jeff Porcaro in 1977
+- As I've said many times, "It's going to take a lot to drag me away from you"
+:::
+
+<br>
+
+:::{.incremental}
+- **Toto**
+:::
 
 # Tyler: One Piece  {.content-background background-image="./static/one_piece_background.jpg" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
@@ -272,16 +372,12 @@ Tyler - One Piece
 
 The first video game based on the One Piece franchise is strategy game Pirate King, released in Japan in 2000. On which console was this game released?
 
+:::{.incremental}
 a. WonderSwan
 b. Game Boy Color
 c. PlayStation 1
 d. GameCube
-
----
-
-The correct answer is:
-
-a. WonderSwan
+:::
 
 ## Question 2
 
@@ -291,12 +387,6 @@ Tyler - One Piece
 
 What is the name of the fruit that Luffy eats, granting his body the properties of rubber?
 
----
-
-The correct answer is:
-
-Hito Hito no Mi, Model: Nika (will accept Human-Human Fruit, Gomu Gomu no Mi or Gum-Gum fruit)
-
 ## Question 3
 
 ::: footer
@@ -305,22 +395,13 @@ Tyler - One Piece
 
 Sort the following Straw Hat members based on their first bounties (high to low)
 
+:::{.incremental}
 a. Nami
 b. Sanji
 c. Chopper
 d. Roronoa Zoro
 e. Usopp
-
----
-
-The correct answer is:
-
-b. Sanji (77,000,000)
-d. Roronoa Zoro (60,000,000)
-e. Usopp (30,000,000)
-a. Nami (16,000,000)
-c. Chopper (50)
-
+:::
 
 ## Question 4
 
@@ -332,12 +413,6 @@ In this scene, what item is Luffy making from scratch to aid him in his fight?
 
 <!-- https://youtu.be/REXhLXvN-bE?t=15 -->
 
----
-
-The correct answer is:
-
-Baseball bat
-
 ## Question 5
 
 ::: footer
@@ -345,12 +420,6 @@ Tyler - One Piece
 :::
 
 The manga series holds the Guinness World Record for the 'Most copies published for the same comic book series by a single author' (July 2022). How many copies have been published?
-
----
-
-The correct answer is:
-
-416,566,000
 
 ## Question 6
 
@@ -366,11 +435,91 @@ Who/what am I?
 - Fact 3
 :::
 
----
+## Answer 1
 
-The correct answer is:
+::: footer
+Tyler - One Piece
+:::
 
-Answer
+The first video game based on the One Piece franchise is strategy game Pirate King, released in Japan in 2000. On which console was this game released?
+
+:::{.incremental}
+- **a. WonderSwan**
+:::
+
+## Answer 2
+
+::: footer
+Tyler - One Piece
+:::
+
+What is the name of the fruit that Luffy eats, granting his body the properties of rubber?
+
+:::{.incremental}
+- **Hito Hito no Mi, Model: Nika (will accept Human-Human Fruit, Gomu Gomu no Mi or Gum-Gum fruit)**
+:::
+
+## Answer 3
+
+::: footer
+Tyler - One Piece
+:::
+
+Sort the following Straw Hat members based on their first bounties (high to low)
+
+:::{.incremental}
+b. **Sanji (77,000,000)**
+d. **Roronoa Zoro (60,000,000)**
+e. **Usopp (30,000,000)**
+a. **Nami (16,000,000)**
+c. **Chopper (50)**
+:::
+
+## Answer 4
+
+::: footer
+Tyler - One Piece
+:::
+
+In this scene, what item is Luffy making from scratch to aid him in his fight?
+
+<!-- https://youtu.be/REXhLXvN-bE?t=15 -->
+
+:::{.incremental}
+- **Baseball bat**
+:::
+
+## Answer 5
+
+::: footer
+Tyler - One Piece
+:::
+
+The manga series holds the Guinness World Record for the 'Most copies published for the same comic book series by a single author' (July 2022). How many copies have been published?
+
+:::{.incremental}
+- **416,566,000**
+:::
+
+## Answer 6
+
+::: footer
+Tyler - One Piece
+:::
+
+Who/what am I?
+
+:::{.nonincremental}
+- Fact 1
+- Fact 2
+- Fact 3
+:::
+
+<br>
+
+:::{.incremental}
+- **Answer**
+:::
 
 # Thanks for playing!
 
