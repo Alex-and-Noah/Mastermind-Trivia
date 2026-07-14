@@ -4,6 +4,7 @@ format:
   revealjs:
     transition: slide
     background-transition: fade
+    theme: solarized
 ---
 
 ```{r setup}
@@ -47,47 +48,94 @@ We'll calculate the differentials between the mastermind and the rest of the tea
 
 ## Question 1
 
-Multiple-choice question
+What is Terry's wife's name?
 
-a. Option 1
-b. Option 2
-c. Option 3
-d. Option 4
+a. Linda
+b. Susan
+c. Sharon
+d. Erin
 
 ## Question 2
 
-Open Question
+What mobile game does Holt become addicted to?
 
 ## Question 3
 
-Rank/order the options.
+Order these minor characters by number of episode appearances (highest to lowest)
 
-Earliest appearence of minor recurring characters
-
-a. Option 1
-b. Option 2
-c. Option 3
-d. Option 4
-e. Option 5
+a. Cheddar
+b. Caleb John Gosche
+c. Madeline Wuntch
+d. Bill Hummertrout
+e. Adrian Pimento
 
 ## Question 4
 
-Sound-bite (we play it out loud separately)
+What is Rosa doing to Charles in this [soundbite](https://youtu.be/Xu-VaMy9sFQ?si=95CPKOY63Rn5O7A9&t=914)?
 
 ## Question 5
 
-Range/closest number
+In Season 1 Jake Peralta discovers he owes back rent on his grandmother's appartment after failing to open the mail. How much does he owe?
 
 
 ## Question 6
 
-Who/what am I?
+Who am I?
 
 ::: {.incremental}
-- Fact 1
-- Fact 2
-- Fact 3
+- I am an inanimate object that Charles Boyle aggressively tracks down because I am allegedly "haunted" by the spirit of a 1920s mobster's mistress.
+- Charles leaves me to Jake and Amy in his will.
+- I require a highly specific, disgusting daily feeding ritual and I am the secret behind the Boyle family's legendary pizza crust.
 :::
+
+## Question 1
+
+What is Terry's wife's name?
+
+a. Linda
+b. Susan
+c. **Sharon**
+d. Erin
+
+## Question 2
+
+What mobile game does Holt become addicted to?
+
+**Kwazy Cupcakes**
+
+## Question 3
+
+Order these minor characters by number of episode appearances (highest to lowest)
+
+e. Adrian Pimento (13)
+c. Madeline Wuntch (12)
+a. Cheddar (9)
+d. Bill Hummertrout (7)
+b. Caleb John Gosche (4)
+
+
+## Question 4
+
+What is Rosa doing to Charles in this [soundbite](https://youtu.be/Xu-VaMy9sFQ?si=95CPKOY63Rn5O7A9&t=914)?
+
+**Shooting him with a Portable Ultrasonic Weapon.**
+
+## Question 5
+
+In Season 1 Jake Peralta discovers he owes back rent on his grandmother's appartment after failing to open the mail. How much does he owe?
+
+**$43,000**
+
+## Question 6
+
+Who am I?
+
+- I am an inanimate object that Charles Boyle aggressively tracks down because I am allegedly "haunted" by the spirit of a 1920s mobster's mistress.
+- Charles leaves me to Jake and Amy in his will.
+- I require a highly specific, disgusting daily feeding ritual and I am the secret behind the Boyle family's legendary pizza crust.
+
+
+**The Motherdough**
 
 # Noah: Metal Music
 
@@ -100,22 +148,9 @@ b. The Rolling Stones
 c. Deep Purple
 d. Black Sabbath
 
-## Question 1
-
-Which of the following well-known 1960s bands is not considered a pioneer of heavy metal?
-
-a. Led Zeppelin
-**b. The Rolling Stones**
-c. Deep Purple
-d. Black Sabbath
-
 ## Question 2
 
 This northern European city was considered an early metal music hub
-
-## Question 2
-
-Gothenburg
 
 ## Question 3
 
@@ -126,6 +161,44 @@ b. Alternative Metal
 c. Thrash Metal
 d. Death Metal
 e. Grunge Metal
+
+
+## Question 4
+
+Which metal-inspired artist is featured in this clip?
+
+## Question 5
+
+BABYMETAL are a Nu Metal Group from Japan. As of July 13th. How many plays does their top song have on Spotify?
+
+
+## Question 6
+
+What am I?
+
+::: {.incremental}
+- This style evolved out of progressive metal.
+- This style heavily uses syncopated riffs, distortions and polyrhythms.
+- This style characteristically uses 7, 8 or even 9 stringed-guitars.
+:::
+
+
+## Answers
+
+## Question 1
+
+Which of the following well-known 1960s bands is not considered a pioneer of heavy metal?
+
+a. Led Zeppelin
+b. **The Rolling Stones**
+c. Deep Purple
+d. Black Sabbath
+
+## Question 2
+
+This northern European city was considered an early metal music hub
+
+**Gothenburg, Sweden**
 
 ## Question 3
 
@@ -141,13 +214,7 @@ e. Alternative Metal (early 2000s)
 
 Which metal-inspired artist is featured in this clip?
 
-## Question 4
-
-Evanescence
-
-## Question 5
-
-BABYMETAL are a Nu Metal Group from Japan. As of July 13th. How many plays does their top song have on Spotify?
+**Evanescence**
 
 ## Question 5
 
@@ -157,19 +224,14 @@ BABYMETAL are a Nu Metal Group from Japan. As of July 13th. How many plays does 
 
 ## Question 6
 
-What am I?
+What am I? 
 
-::: {.incremental}
 - This style evolved out of progressive metal.
 - This style heavily uses syncopated riffs, distortions and polyrhythms.
 - This style characteristically uses 7, 8 or even 9 stringed-guitars.
-:::
-
-## Question 6
-
-What am I? 
 
 **Djent**
+
 
 # Hayley: Grade 9 Geography
 
@@ -182,12 +244,46 @@ b. Quebec
 c. British Columbia
 d. Alberta
 
+## Question 2
+
+Which natural resource industry employs the most people in Canada?
+
+## Question 3
+
+Order these Canadian demographic events:
+
+a. Canada's population surpasses 30 million
+b. Millenials outnumbered Baby Boomers
+c. Canada's total fertility rate drops below 2 babies per female
+d. The first Gen Alpha is born
+e. Nunavut becomes a territory
+
+## Question 4
+
+What location is "discovered" in this [Heritage Minute](https://www.historicacanada.ca/productions/minutes/jean-nicollet)?
+
+## Question 5
+
+How many square km is the Canadian shield?
+
+## Question 6
+
+What am I?
+
+::: {.incremental}
+- I am named after a Greek explorer.
+- I caused a major earthquake in 1700.
+- I am a microplate in the ring of fire.
+:::
+
+## Answers
+
 ## Question 1
 
 Which province produces the most hydroelectric power?
 
 a. Ontario
-**b. Quebec**
+b. **Quebec**
 c. British Columbia
 d. Alberta
 
@@ -195,21 +291,7 @@ d. Alberta
 
 Which natural resource industry employs the most people in Canada?
 
-## Question 2
-
-Which natural resource industry employs the most people in Canada?
-
-Minerals and metals
-
-## Question 3
-
-Order the "mainstream" appearance of each metal subgenre from earliest to latest:
-
-a. Canada's population surpasses 30 million
-b. Millenials outnumbered Baby Boomers
-c. Canada's total fertility rate drops below 2 babies per female
-d. The first Gen Alpha is born
-e. Nunavut becomes a territory
+**Minerals and metals**
 
 ## Question 3
 
@@ -225,33 +307,21 @@ e. Millenials outnumbered Baby Boomers (2023)
 
 What location is "discovered" in this [Heritage Minute](https://www.historicacanada.ca/productions/minutes/jean-nicollet)?
 
-## Question 4
-
-Lake Michigan
+**Lake Michigan**
 
 ## Question 5
 
 How many square km is the Canadian shield?
 
-## Question 5
-
-How many square km is the Canadian shield?
-
-8,000,000 km^2
-
-## Question 6
-
-What am I?
-
-::: {.incremental}
-- I am between 2.5 and 4.2 billion years old.
-- My last major earthquake was in 1700.
-- I am a microplate in the ring of fire.
-:::
+**8,000,000 km^2**
 
 ## Question 6
 
 What am I? 
+
+- I am named after a Greek explorer.
+- I caused a major earthquake in 1700.
+- I am a microplate in the ring of fire.
 
 **Juan de Fuca Plate**
 
