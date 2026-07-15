@@ -521,7 +521,20 @@ Who/what am I?
 - **Answer**
 :::
 
-# Thanks for playing!
+# OT: Avatar: The Last Airbender {.content-background background-image="./static/one_piece_background.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question
+
+:::{.incremental}
+- How many episodes of Avatar: The Last Airbender are there?
+- 61
+:::
+
+:::{.incremental}
+- How old is Aang chronologically when he dies?
+- 166
+:::
+
 
 <!-- Still need:
 
@@ -530,3 +543,5 @@ Veep:
 
 One Piece:
 - 6. Who/what am I? -->
+
+# Thanks for playing!
