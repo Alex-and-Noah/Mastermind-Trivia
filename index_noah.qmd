@@ -109,8 +109,8 @@ Who/what am I?
 
 ::: {.incremental}
 - Fact 1
-- Fact 2
-- Fact 3
+- Some may jokingly call you a *Kassi* if they saw you with me, which is a Finnish slang term for *testicles*
+- Using me for too long may necessitate a visit from a masseur
 :::
 
 ## Answer 1
@@ -521,20 +521,182 @@ Who/what am I?
 - **Answer**
 :::
 
-# OT: Avatar: The Last Airbender {.content-background background-image="./static/one_piece_background.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+# Victoria: The Process of Becoming a Lawyer in the Province of Ontario  {.content-background background-image="./static/law_society_of_ontario_background.png" background-size="auto 100%" style="width:fit-content;margin-top:23%;margin-left:-10%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Victoria - Becoming a Lawyer in Ontario
+:::
+
+Which of these is **not** a law school approved by the Convocation of the Law Society of Ontario?
+
+:::{.incremental}
+a. Lakehead University
+b. Queen's University
+c. Laurentian University
+d. University of Ottawa
+:::
+
+## Question 2
+
+::: footer
+Victoria - Becoming a Lawyer in Ontario
+:::
+
+The named 'Law Society of Ontario' was made official on May 8, 2018. What was it called before this?
+
+## Question 3
+
+::: footer
+Victoria - Becoming a Lawyer in Ontario
+:::
+
+Arrange the following events in chronological order:
+
+:::{.incremental}
+a. The LSAT was first administered
+b. Ontario enacts the Fair Accommodations Practices Act to prevent discrimination in services, facilities and accommodations in public spaces.
+c. The University of Ottawa (re)establishes it's Faculty of Law.
+d. Helen Kinnear becomes the first federally appointed female judge in Canada (Haldimand County, Ontario).
+e. The Bar Admission Course is established in Ontario .
+:::
+
+## Question 4
+
+::: footer
+Victoria - Becoming a Lawyer in Ontario
+:::
+
+In this scene, what item is Luffy making from scratch to aid him in his fight?
+
+<!-- https://youtu.be/REXhLXvN-bE?t=15 -->
+
+## Question 5
+
+::: footer
+Victoria - Becoming a Lawyer in Ontario
+:::
+
+You may think there is an error in your LSAT score and therefore, wish to request an audit of your score from The Law School Admission Council. How much would this audit cost you?
+
+## Question 6
+
+::: footer
+Victoria - Becoming a Lawyer in Ontario
+:::
+
+Who/what am I?
+
+::: {.incremental}
+- Fact 1
+- Fact 2
+- Fact 3
+:::
+
+## Answer 1
+
+::: footer
+Victoria - Becoming a Lawyer in Ontario
+:::
+
+Which of these is **not** a law school approved by the Convocation of the Law Society of Ontario?
+
+:::{.incremental}
+- **c. Laurentian University**
+:::
+
+## Answer 2
+
+::: footer
+Victoria - Becoming a Lawyer in Ontario
+:::
+
+The named 'Law Society of Ontario' was made official on May 8, 2018. What was it called before this?
+
+:::{.incremental}
+- **Law Society of Upper Canada**
+:::
+
+## Answer 3
+
+::: footer
+Victoria - Becoming a Lawyer in Ontario
+:::
+
+Arrange the following events in chronological order:
+
+:::{.incremental}
+d. **Helen Kinnear becomes the first federally appointed female judge in Canada (Haldimand County, Ontario) (1943)**
+a. **The LSAT was first administered (1948)**
+c. **The University of Ottawa (re)establishes it's Faculty of Law (1953)**
+b. **Ontario enacts the Fair Accommodations Practices Act to prevent discrimination in services, facilities and accommodations in public spaces. (1954)**
+e. **The Bar Admission Course is established in Ontario (1959)**
+:::
+
+## Answer 4
+
+::: footer
+Victoria - Becoming a Lawyer in Ontario
+:::
+
+In this scene, what item is Luffy making from scratch to aid him in his fight?
+
+<!-- https://youtu.be/REXhLXvN-bE?t=15 -->
+
+:::{.incremental}
+- **Baseball bat**
+:::
+
+## Answer 5
+
+::: footer
+Victoria - Becoming a Lawyer in Ontario
+:::
+
+You may think there is an error in your LSAT score and therefore, wish to request an audit of your score from The Law School Admission Council. How much would this audit cost you?
+
+:::{.incremental}
+- **$150$**
+:::
+
+## Answer 6
+
+::: footer
+Victoria - Becoming a Lawyer in Ontario
+:::
+
+Who/what am I?
+
+:::{.nonincremental}
+- Fact 1
+- Fact 2
+- Fact 3
+:::
+
+<br>
+
+:::{.incremental}
+- **Answer**
+:::
+
+# OT: Avatar: The Last Airbender {.content-background background-image="./static/atla_background.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question
 
-:::{.incremental}
-- How many episodes of Avatar: The Last Airbender are there?
-- 61
-:::
+How long was the solar eclipse on the day of Black Sun?
 
 :::{.incremental}
-- How old is Aang chronologically when he dies?
-- 166
+- **8 minutes**
 :::
 
+---
+
+How many times did Aang enter the Avatar state?
+
+:::{.incremental}
+- **19 times**
+:::
 
 <!-- Still need:
 
@@ -542,6 +704,13 @@ Veep:
 - 6. Who/what am I?
 
 One Piece:
+- 6. Who/what am I?
+
+Lawyer:
+- 4. Sound-byte
 - 6. Who/what am I? -->
+
+
+
 
 # Thanks for playing!
