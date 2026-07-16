@@ -5,6 +5,7 @@ format:
     transition: slide
     background-transition: fade
     theme: solarized
+    incremental: true
 css: styles.css
 ---
 
