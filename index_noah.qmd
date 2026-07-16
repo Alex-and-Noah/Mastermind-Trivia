@@ -108,9 +108,9 @@ Alex - Veep
 Who/what am I?
 
 ::: {.incremental}
-- Fact 1
-- Some may jokingly call you a *Kassi* if they saw you with me, which is a Finnish slang term for *testicles*
+- I am once described as "[Selena's] two big, very busy webbed legs and feet"
 - Using me for too long may necessitate a visit from a masseur
+- Some may jokingly call you a *Kassi* if they saw you with me, which is a Finnish slang term for *testicles*
 :::
 
 ## Answer 1
@@ -187,10 +187,10 @@ Alex - Veep
 
 Who/what am I?
 
-:::{.nonincremental}
-- Fact 1
-- Fact 2
-- Fact 3
+::: {.nonincremental}
+- I am once described as "[Selena's] two big, very busy webbed legs and feet"
+- Using me for too long may necessitate a visit from a masseur
+- Some may jokingly call you a *Kassi* if they saw you with me, which is a Finnish slang term for *testicles*
 :::
 
 <br>
@@ -370,7 +370,7 @@ What band am I?
 Tyler - One Piece
 :::
 
-The first video game based on the One Piece franchise is strategy game Pirate King, released in Japan in 2000. On which console was this game released?
+The first video game based on the One Piece franchise is strategy game **Pirate King**, released in Japan in 2000. On which console was this game released?
 
 :::{.incremental}
 a. WonderSwan
@@ -430,9 +430,9 @@ Tyler - One Piece
 Who/what am I?
 
 ::: {.incremental}
-- Fact 1
-- Fact 2
-- Fact 3
+- I may not be the tallest, coming in at 21ft and 10in tall, but I definitely am the strongest
+- Oddly enough, I am named after the real life pirate Blackbeard
+- You may have heard me when I yelled "THE ONE PIECE... THE ONE PIECE IS REAL!!!!!"
 :::
 
 ## Answer 1
@@ -441,7 +441,7 @@ Who/what am I?
 Tyler - One Piece
 :::
 
-The first video game based on the One Piece franchise is strategy game Pirate King, released in Japan in 2000. On which console was this game released?
+The first video game based on the One Piece franchise is strategy game **Pirate King**, released in Japan in 2000. On which console was this game released?
 
 :::{.incremental}
 - **a. WonderSwan**
@@ -510,15 +510,15 @@ Tyler - One Piece
 Who/what am I?
 
 :::{.nonincremental}
-- Fact 1
-- Fact 2
-- Fact 3
+- I may not be the tallest, coming in at 21ft and 10in tall, but I definitely am the strongest
+- Oddly enough, I am named after the real life pirate Blackbeard
+- You may have heard me when I yelled "THE ONE PIECE... THE ONE PIECE IS REAL!!!!!"
 :::
 
 <br>
 
 :::{.incremental}
-- **Answer**
+- **Edward Newgate (Whitebeard)**
 :::
 
 # Victoria: The Process of Becoming a Lawyer in the Province of Ontario  {.content-background background-image="./static/law_society_of_ontario_background.png" background-size="auto 100%" style="width:fit-content;margin-top:23%;margin-left:-10%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
@@ -589,9 +589,10 @@ Victoria - Becoming a Lawyer in Ontario
 Who/what am I?
 
 ::: {.incremental}
-- Fact 1
-- Fact 2
-- Fact 3
+- Since 1989, only 13 lawyer applicants have been rejected in Ontario based on this requirement (and none before)
+- The *Armstrong* factors are an oft-cited test when hearing panels assess this requirement
+- The **R. v. Ipeelee (2012)** and **R. v. Gladue (1999)** decisions established guiding principles, namely that courts must consider unique systemic and background factors that may have played a part in applicant's responses to this requirement
+
 :::
 
 ## Answer 1
@@ -669,15 +670,15 @@ Victoria - Becoming a Lawyer in Ontario
 Who/what am I?
 
 :::{.nonincremental}
-- Fact 1
-- Fact 2
-- Fact 3
+- Since 1989, only 13 lawyer applicants have been rejected in Ontario based on this requirement (and none before)
+- The *Armstrong* factors are an oft-cited test when hearing panels assess this requirement
+- The **R. v. Ipeelee (2012)** and **R. v. Gladue (1999)** decisions established guiding principles, namely that courts must consider unique systemic and background factors that may have played a part in applicant's responses to this requirement
 :::
 
 <br>
 
 :::{.incremental}
-- **Answer**
+- **The Good character requirement**
 :::
 
 # OT: Avatar: The Last Airbender {.content-background background-image="./static/atla_background.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
@@ -700,15 +701,8 @@ How many times did Aang enter the Avatar state?
 
 <!-- Still need:
 
-Veep:
-- 6. Who/what am I?
-
-One Piece:
-- 6. Who/what am I?
-
 Lawyer:
 - 4. Sound-byte
-- 6. Who/what am I? -->
 
 
 
