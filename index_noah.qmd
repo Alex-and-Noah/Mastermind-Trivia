@@ -89,8 +89,6 @@ Alex - Veep
 
 What is Selina Meyer referring to in this clip?
 
-<!-- https://youtu.be/YtRVGdT6c3E?t=116 -->
-
 ## Question 5
 
 ::: footer
@@ -146,11 +144,11 @@ Alex - Veep
 List these guests in chronological order of appearance.
 
 :::{.incremental}
-d. **Christopher Meloni (S3E6)**
-a. **Patton Oswalt (S4E1)**
-c. **Hugh Laurie (S4E5)**
-e. **Clea DuVall (S5E1)**
-b. **Rhea Seehorn (S7E2)**
+d. **Christopher Meloni as Ray Whelans (S3E6)**
+a. **Patton Oswalt as Teddy Sykes (S4E1)**
+c. **Hugh Laurie as Tom James (S4E5)**
+e. **Clea DuVall as Majorie Palmiotti (S5E1)**
+b. **Rhea Seehorn as Michelle York (S7E2)**
 :::
 
 ## Answer 4
@@ -160,8 +158,6 @@ Alex - Veep
 :::
 
 What is Selina Meyer referring to in this clip?
-
-<!-- https://youtu.be/YtRVGdT6c3E?t=116 -->
 
 :::{.incremental}
 - **Catherine's hair**
@@ -248,8 +244,6 @@ Michael - Yacht Rock
 
 Name each of these songs and their artists.
 
-<!-- https://open.spotify.com/playlist/4t6ZbMpxbuFaWGm8994Rcl?si=404500b57c074e24&pt=353e30145a5f482844f021f4fc751e3d -->
-
 ## Question 5
 
 ::: footer
@@ -319,8 +313,6 @@ Michael - Yacht Rock
 :::
 
 Name each of these songs and their artists.
-
-<!-- https://open.spotify.com/playlist/4t6ZbMpxbuFaWGm8994Rcl?si=404500b57c074e24&pt=353e30145a5f482844f021f4fc751e3d -->
 
 :::{.incremental}
 1. **Footloose by Kenny Loggins**
@@ -411,8 +403,6 @@ Tyler - One Piece
 
 In this scene, what item is Luffy making from scratch to aid him in his fight?
 
-<!-- https://youtu.be/REXhLXvN-bE?t=15 -->
-
 ## Question 5
 
 ::: footer
@@ -482,8 +472,6 @@ Tyler - One Piece
 :::
 
 In this scene, what item is Luffy making from scratch to aid him in his fight?
-
-<!-- https://youtu.be/REXhLXvN-bE?t=15 -->
 
 :::{.incremental}
 - **Baseball bat**
@@ -556,10 +544,10 @@ Arrange the following events in chronological order:
 
 :::{.incremental}
 a. The LSAT was first administered
-b. Ontario enacts the Fair Accommodations Practices Act to prevent discrimination in services, facilities and accommodations in public spaces.
-c. The University of Ottawa (re)establishes it's Faculty of Law.
-d. Helen Kinnear becomes the first federally appointed female judge in Canada (Haldimand County, Ontario).
-e. The Bar Admission Course is established in Ontario .
+b. Ontario enacts the Fair Accommodations Practices Act to prevent discrimination in public services
+c. The University of Ottawa establishes it's (current) Faculty of Law
+d. Helen Kinnear becomes the first federally appointed female judge in Canada
+e. The Bar Admission Course is established in Ontario
 :::
 
 ## Question 4
@@ -568,9 +556,7 @@ e. The Bar Admission Course is established in Ontario .
 Victoria - Becoming a Lawyer in Ontario
 :::
 
-In this scene, what item is Luffy making from scratch to aid him in his fight?
-
-<!-- https://youtu.be/REXhLXvN-bE?t=15 -->
+The follow is the theme song for the 1987 Canadian drama series, focusing on the professional and private lives of the partners in a small Toronto law firm. What is the name of the T.V. show?
 
 ## Question 5
 
@@ -591,7 +577,7 @@ Who/what am I?
 ::: {.incremental}
 - Since 1989, only 13 lawyer applicants have been rejected in Ontario based on this requirement (and none before)
 - The *Armstrong* factors are an oft-cited test when hearing panels assess this requirement
-- The **R. v. Ipeelee (2012)** and **R. v. Gladue (1999)** decisions established guiding principles, namely that courts must consider unique systemic and background factors that may have played a part in applicant's responses to this requirement
+- The **R. v. Ipeelee (2012)** and **R. v. Gladue (1999)** decisions rule that courts must consider unique systemic and background factors that may influence applicant's responses to this requirement
 
 :::
 
@@ -628,10 +614,10 @@ Victoria - Becoming a Lawyer in Ontario
 Arrange the following events in chronological order:
 
 :::{.incremental}
-d. **Helen Kinnear becomes the first federally appointed female judge in Canada (Haldimand County, Ontario) (1943)**
+d. **Helen Kinnear becomes the first federally appointed female judge in Canada (1943)**
 a. **The LSAT was first administered (1948)**
-c. **The University of Ottawa (re)establishes it's Faculty of Law (1953)**
-b. **Ontario enacts the Fair Accommodations Practices Act to prevent discrimination in services, facilities and accommodations in public spaces. (1954)**
+c. **The University of Ottawa establishes it's (current) Faculty of Law (1953)**
+b. **Ontario enacts the Fair Accommodations Practices Act to prevent discrimination in public services (1954)**
 e. **The Bar Admission Course is established in Ontario (1959)**
 :::
 
@@ -641,12 +627,10 @@ e. **The Bar Admission Course is established in Ontario (1959)**
 Victoria - Becoming a Lawyer in Ontario
 :::
 
-In this scene, what item is Luffy making from scratch to aid him in his fight?
-
-<!-- https://youtu.be/REXhLXvN-bE?t=15 -->
+The follow is the theme song for the 1987 Canadian drama series, focusing on the professional and private lives of the partners in a small Toronto law firm. What is the name of the T.V. show?
 
 :::{.incremental}
-- **Baseball bat**
+- **Street Legal**
 :::
 
 ## Answer 5
@@ -672,14 +656,22 @@ Who/what am I?
 :::{.nonincremental}
 - Since 1989, only 13 lawyer applicants have been rejected in Ontario based on this requirement (and none before)
 - The *Armstrong* factors are an oft-cited test when hearing panels assess this requirement
-- The **R. v. Ipeelee (2012)** and **R. v. Gladue (1999)** decisions established guiding principles, namely that courts must consider unique systemic and background factors that may have played a part in applicant's responses to this requirement
+- The **R. v. Ipeelee (2012)** and **R. v. Gladue (1999)** decisions rule that courts must consider unique systemic and background factors that may influence applicant's responses to this requirement
 :::
 
-<br>
+## Answer 6 (cont.)
+
+::: footer
+Victoria - Becoming a Lawyer in Ontario
+:::
 
 :::{.incremental}
 - **The Good character requirement**
 :::
+
+# Thanks for playing!
+
+# OT?
 
 # OT: Avatar: The Last Airbender {.content-background background-image="./static/atla_background.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
@@ -698,13 +690,5 @@ How many times did Aang enter the Avatar state?
 :::{.incremental}
 - **19 times**
 :::
-
-<!-- Still need:
-
-Lawyer:
-- 4. Sound-byte
-
-
-
 
 # Thanks for playing!
